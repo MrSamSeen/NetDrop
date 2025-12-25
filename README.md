@@ -48,7 +48,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/MrSamSeen/NetDrop.git
+git clone https://github.com/SamSeenX/NetDrop.git
 cd NetDrop
 
 # Install dependencies
@@ -114,4 +114,4 @@ MIT License - see LICENSE file for details.
 
 ---
 
-Created with ❤️ by [SamSeen](https://github.com/MrSamSeen/)
+Created with ❤️ by [SamSeen](https://github.com/SamSeenX/)
